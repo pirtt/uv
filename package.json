@@ -1,0 +1,8 @@
+{
+  "name": "uv",
+  "version": "0.11.26",
+  "repo": "clibs/uv",
+  "description": "Cross-platform asychronous I/O",
+  "keywords": [ "libuv", "uv", "async" ],
+  "install": "./install.sh"
+}
