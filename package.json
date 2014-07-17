@@ -4,5 +4,5 @@
   "repo": "clibs/uv",
   "description": "Cross-platform asychronous I/O",
   "keywords": [ "libuv", "uv", "async" ],
-  "install": "./install.sh"
+  "install": "./clib-install.sh"
 }
